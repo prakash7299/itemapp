@@ -4,7 +4,7 @@
     <groupId>com.dxctraining</groupId>
     <artifactId>itemapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mvc demo</name>
+    <name>itemapp</name>
     <url>http://maven.apache.org</url>
     <properties>
         <failOnMisssingWebXml>false</failOnMisssingWebXml>
