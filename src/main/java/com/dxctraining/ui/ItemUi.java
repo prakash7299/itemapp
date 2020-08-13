@@ -26,7 +26,7 @@ public class ItemUi {
             item3=service.save(item3);
             int id1 = item1.getId();
             Item fetched = service.findItemById(id1);
-            System.out.println("fetcehd item name =" + fetched.getName());
+            System.out.println("fetcehd item name =" + fetched.getName()+"price :"+fetched.getPrice());
         }catch (ItemNotFoundException e){
             e.printStackTrace();
         }
